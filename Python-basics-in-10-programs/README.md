@@ -1,7 +1,7 @@
 
 # Quick start Python in 10 Programs
 
-![Python](https://github.com/G-Sudarshan/BackToBasics-Hacktoberfest/blob/main/Python-basics-in-10-programs/V1.jpg"Python-basics-in-10-programs")
+![Python](https://github.com/G-Sudarshan/BackToBasics-Hacktoberfest/blob/main/Python-basics-in-10-programs/V1.jpg "Python-basics-in-10-programs")
 
 This is quick repo to gets started with python in 10 simple programs from hello world to simple file handling 
 
