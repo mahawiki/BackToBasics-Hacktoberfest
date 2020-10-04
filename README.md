@@ -3,7 +3,7 @@
  - In this repository, you can find all the resources you need to get start your career in tech industry. 
 
 ## Index
- 1. [Angular](github.com/thedevankit/angular) 
+ 1. [Angular](https://github.com/thedevankit/angular) 
  2. Css
  3. [Cloud Computing](/cloud-computing/google-cloud/cloud-run-website)
  4. Html
