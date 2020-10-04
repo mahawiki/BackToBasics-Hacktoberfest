@@ -44,10 +44,10 @@ You can use `docker` for creating the containers but then the process will take 
 
 Cloud Build will compress the files from the directory and move them to a Cloud Storage bucket. The build process will then take all the files from the bucket and use the Dockerfile, which is present in the same directory, to run the Docker build process. Since you specified the --tag flag with the host as gcr.io for the Docker image, the resulting Docker image will be pushed to Container Registry.
 
-First run the following command to enable the Cloud Build API:
+First run the following command to enable the Cloud Build API:<br>
 `gcloud services enable cloudbuild.googleapis.com`
 
-After the API is enabled, run the following command to start the build process:
+After the API is enabled, run the following command to start the build process:<br>
 `gcloud builds submit --tag gcr.io/${GOOGLE_CLOUD_PROJECT}/monolith:1.0.0 .`
 
 This process will take a few minutes, but after it is completed, there will be output in the terminal similar to the following:
@@ -68,7 +68,7 @@ There are two approaches for deploying to Cloud Run:
 
 + Cloud Run on GKE: Cloud Run with an additional layer of control which allows you to bring your own clusters & pods from GKE.
 
-First we need to enable the Cloud Run API. 
+First we need to enable the Cloud Run API.<br> 
 `gcloud services enable run.googleapis.com`
 
 While deploying to Cloud Run, we need to choose the managed version of Cloud Run by specifying the tag `--platform managed`<br>
@@ -79,7 +79,7 @@ Accept the default suggested service name (it will be "monolith") by pressing **
 For this lab, allow unauthenticated requests into the application. Type "Y" when asked. You will also get the URL at which your application has been deployed when deployment finishes
 
 ## Verify the deployment
-Verify that the deployment has been created successfully by running the following command
+Verify that the deployment has been created successfully by running the following command<br>
 `gcloud run services list`
 
 Type "1" when prompted to choose the platform managed version of Cloud Run. The output shows several things. You can see the deployment, as well as the user that deployed it (your email ID) and the URL you can use to access the app.
