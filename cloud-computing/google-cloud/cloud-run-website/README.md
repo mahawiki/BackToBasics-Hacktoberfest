@@ -10,7 +10,7 @@ Here we will be using it to deploy a website to Cloud Run. The frontend for the 
 
 Cloud Run is a managed compute platform that can be used for deploying containerised applications quickly and securely. Google Cloud Platform takes care of the scaling and manageability of your application, and you only need to take care of the code. So let's get started. 
 
-[![Open this project in Cloud Shell](http://gstatic.com/cloudssh/images/open-btn.png)](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/mahawiki/BackToBasics-Hacktoberfest.git&page=editor&tutorial=https://github.com/mahawiki/BackToBasics-Hacktoberfest/tree/main/cloud-computing/google-cloud/cloud-run-website/TUTORIAL.md)
+[![Open this project in Cloud Shell](http://gstatic.com/cloudssh/images/open-btn.png)](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/mahawiki/BackToBasics-Hacktoberfest.git&page=editor&tutorial=main/cloud-computing/google-cloud/cloud-run-website/TUTORIAL.md)
 
 ## Setup
 
