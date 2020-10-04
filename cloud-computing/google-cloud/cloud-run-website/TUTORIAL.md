@@ -81,7 +81,7 @@ There are two approaches for deploying to Cloud Run:
 
 + Cloud Run on GKE: Cloud Run with an additional layer of control which allows you to bring your own clusters & pods from GKE.
 
-First we need to enable the Cloud Run API.
+First we need to enable the Cloud Run API.&nbsp;
 `gcloud services enable run.googleapis.com`
 
 While deploying to Cloud Run, we need to choose the managed version of Cloud Run by specifying the tag `--platform managed`
