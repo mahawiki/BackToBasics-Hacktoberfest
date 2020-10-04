@@ -1,5 +1,5 @@
 # BackToBasics-Hacktoberfest
-![Hacktoberfest by Digital Ocean](https://raw.githubusercontent.com/mahawiki/BackToBasics-Hacktoberfest/main/hacktoberfest.svg "Hacktoberfest")
+![Hacktoberfest by Digital Ocean](/assets/hackfest2020.png "Hacktoberfest")
  - In this repository, you can find all the resources you need to get start your career in tech industry. 
 
 ## Index
