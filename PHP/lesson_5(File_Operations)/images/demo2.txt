@@ -1,0 +1,4 @@
+biodata
+name=riddhi
+rollno=44
+age=18
