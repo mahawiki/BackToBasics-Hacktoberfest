@@ -6,7 +6,7 @@
  1. [Angular](https://github.com/thedevankit/angular) 
  2. Css
  3. [Cloud Computing](/cloud-computing/google-cloud/cloud-run-website)
- 4. Html
+ 4. HTML
  5. JavaScript
  6. Python
  7. PHP
