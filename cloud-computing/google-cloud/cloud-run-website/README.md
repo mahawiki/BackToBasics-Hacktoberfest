@@ -71,7 +71,7 @@ There are two approaches for deploying to Cloud Run:
 First we need to enable the Cloud Run API. 
 `gcloud services enable run.googleapis.com`
 
-While deploying to Cloud Run, we need to choose the managed version of Cloud Run by specifying the tag `--platform managed`
+While deploying to Cloud Run, we need to choose the managed version of Cloud Run by specifying the tag `--platform managed`<br>
 `gcloud run deploy --image=gcr.io/${GOOGLE_CLOUD_PROJECT}/monolith:1.0.0 --platform managed`
 
 Accept the default suggested service name (it will be "monolith") by pressing **Enter**.
@@ -92,4 +92,4 @@ The `react-app` folder contains a React application created from `create-react-a
 npm run build
 ```
 
-This will run the build script to create the static files two times. The first will build with relative URLs and copy the static files to the monolith/public folder. The second run will build with the standard microservices URLs and copy the static files to the microservices/src/frontned/public folder.
+This will run the build script to create the static files two times. The first will build with relative URLs and copy the static files to the monolith/public folder. The second run will build with the standard microservices URLs and copy the static files to the microservices/src/frontend/public folder.
