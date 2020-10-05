@@ -13,7 +13,7 @@ Click the **Start** button to move to the next step.
 
 ## Introduction
 
-This project is used by the Google Cloud Platform team to demonstrate different services within Google Cloud. This project contains two versions of the same application, one architected as a monolith and the other as a set of microservices. This helps them to demonstrate all the services using the same application.
+This project is used by the Google Cloud Platform team to demonstrate different services within Google Cloud. This project contains two versions of the same application, one architected as a monolith and the other as a set of microservices. This helps them to demonstrate all the services using the same application. &nbsp;
 
 Here we will be using it to deploy a website to Cloud Run. The frontend for the website is written as a React app, that can be deployed using containers running Node JS. It contains a shopping website, but feel free to customise it also. 
 
@@ -23,7 +23,7 @@ Click on **next** to go through the other steps of this tutorial
 
 ## Setup
 
-All the steps need to be followed in Cloud Shell only. First we need to set the default zone and region for the project 
+All the steps need to be followed in Cloud Shell only. First we need to set the default zone and region for the project &nbsp;
 ```
 gcloud config set compute/region us-central1
 gcloud config set compute/zone us-central1-a
@@ -85,7 +85,7 @@ There are two approaches for deploying to Cloud Run:
 
 + Cloud Run on GKE: Cloud Run with an additional layer of control which allows you to bring your own clusters & pods from GKE.
 
-First we need to enable the Cloud Run API.
+First we need to enable the Cloud Run API. &nbsp;
 ```
 gcloud services enable run.googleapis.com`
 ```
@@ -107,5 +107,8 @@ gcloud run services list
 
 Type "1" when prompted to choose the platform managed version of Cloud Run. The output shows several things. You can see the deployment, as well as the user that deployed it (your email ID) and the URL you can use to access the app.
 
-## Congratulations
+## Congratulations 
+&nbsp;
+<walkthrough-conclusion-trophy></walkthrough-conclusion-trophy>
+&nbsp;&nbsp;&nbsp;
 You have now deployed a website on Cloud Run. Go through the documentation to learn how you can [update](https://cloud.google.com/run/docs/rollouts-rollbacks-traffic-migration) the website, change the [concurrency](https://cloud.google.com/run/docs/configuring/concurrency) and even [delete](https://cloud.google.com/run/docs/managing/services#delete) the deployment when it is no longer needed.
