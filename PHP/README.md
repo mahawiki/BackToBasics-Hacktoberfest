@@ -2,7 +2,7 @@
 
 This section is created for beginners who want to start learning PHP Language.
 
-These PHP basic programs covers most of PHP Fundamentals as well as PHP course in Computer Science(CS) as well as Information Technology(IT) studies.
+These PHP basic programs cover most of PHP Fundamentals as well as PHP course in Computer Science(CS) as well as Information Technology(IT) studies.
 
 # Steps to run the code samples-
 
