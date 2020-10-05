@@ -3,9 +3,11 @@
 ![Hacktoberfest by Digital Ocean](/assets/hackfest2020.png "Hacktoberfest")
 
 This section is created for beginners who want to get started with learning Datastructures and Algorithms using Python.
+
 A data structure is a named location that can be used to store and organize data. 
 And, an algorithm is a collection of steps to solve a particular problem.
 You can get started with python [here](https://www.python.org/downloads/).
+
 Learning data structures and algorithms allow us to write efficient and optimized computer programs.
 
 
