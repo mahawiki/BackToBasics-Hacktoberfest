@@ -8,7 +8,8 @@
  3. [Cloud Computing](/cloud-computing/google-cloud/cloud-run-website)
  4. HTML
  5. JavaScript
- 6. [Python](/Python-basics-in-10-programs)
- 7. [PHP](/PHP/)
+ 6. [Java](/Java)
+ 7. [Python](/Python-basics-in-10-programs)
+ 8. [PHP](/PHP/)
  
 We will contribute basic repos of all programming languages. See [CONTRIBUTING.md](https://github.com/mahawiki/BackToBasics-Hacktoberfest/blob/main/CONTRIBUTING.md) for guidelines on how to contribute to this repository
