@@ -5,6 +5,7 @@
 ## Index
  1. [Angular](https://github.com/thedevankit/angular) 
  2. Css
+ 3. [Data Structures and Algorithms using Python](/Data Structures and Algorithms using Python/)
  3. [Cloud Computing](/cloud-computing/google-cloud/cloud-run-website)
  4. HTML
  5. JavaScript
