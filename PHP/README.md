@@ -1,3 +1,9 @@
+# Description-
+
+This section is created for beginners who want to start learning PHP Language.
+
+These PHP basic programs cover most of PHP Fundamentals as well as PHP course in Computer Science(CS) as well as Information Technology(IT) studies.
+
 # Steps to run the code samples-
 
  1. Download XAMPP from [official site](https://www.apachefriends.org/download.html).
