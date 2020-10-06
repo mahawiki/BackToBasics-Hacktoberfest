@@ -9,6 +9,6 @@
  4. HTML
  5. JavaScript
  6. Python
- 7. PHP
+ 7. [PHP](/PHP/)
  
 We will contribute basic repos of all programming languages. See [CONTRIBUTING.md](https://github.com/mahawiki/BackToBasics-Hacktoberfest/blob/main/CONTRIBUTING.md) for guidelines on how to contribute to this repository
