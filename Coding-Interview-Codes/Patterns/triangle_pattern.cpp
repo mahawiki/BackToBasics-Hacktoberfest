@@ -1,3 +1,7 @@
+
+#include <iostream>
+using namespace std;
+ 
 / Function to demonstrate printing pattern
 void triangle(int n)
 {
@@ -25,3 +29,11 @@ int main()
     triangle(n);
     return 0;
 }
+
+/*OUTPUT:
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+*/
