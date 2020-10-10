@@ -108,7 +108,7 @@ Output: 0, 1, 1, 2, 3, 5, 8, 13, 21
 
 5. The Fibonacci Series will get printed.
 
-## [Different Patterns Codes](https://github.com/Shubhamnakawe/BackToBasics-Hacktoberfest/tree/main/Coding-Interview-Codes/Patterns)
+## [Different Patterns Codes](https://github.com/mahawiki/BackToBasics-Hacktoberfest/tree/main/Coding-Interview-Codes/Patterns)
 
 - Triangle Pattern
 - Pymrid Pattern
