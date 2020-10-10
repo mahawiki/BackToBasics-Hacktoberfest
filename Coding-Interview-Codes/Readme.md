@@ -111,4 +111,4 @@ Output: 0, 1, 1, 2, 3, 5, 8, 13, 21
 ## [Different Patterns Codes](https://github.com/mahawiki/BackToBasics-Hacktoberfest/tree/main/Coding-Interview-Codes/Patterns)
 
 - Triangle Pattern
-- Pymrid Pattern
+- Pyramid Pattern
